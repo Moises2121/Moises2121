@@ -23,12 +23,6 @@ As I dive into the Computer Science world, I realize the tool's potentials in th
 
 ## My Current Toolbox
 
-<div align="center">
-
-<img src="https://www.gitskins.com/api/readme-reference/technology-stack?username=moises2121&theme=github-dark&logos=HTML%2CJava%2CC%2B%2B&v=signature-cap-tip-languages-3" alt="Moises Sanchez technology stack" />
-
-</div>
-
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <td style="width:25%;"><strong>Languages</strong></td>
