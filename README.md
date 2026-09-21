@@ -1,5 +1,5 @@
 <h1 align="center">Moises Sanchez</h1>
-<h3 align="center">Process Engineer / Full-Stack Dev Student</h3>
+<h3 align="center">Flex • Process Engineer / SNHU • Full-Stack Dev Student</h3>
 
 <p align="center"><a href="https://github.com/moises2121"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/moises2121?tab=repositories"><img src="https://img.shields.io/badge/1_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="PUBLIC REPOSITORIES" /></a> <a href="https://www.linkedin.com/in/moises-sanchez-9ab510361"><img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
 
@@ -30,7 +30,7 @@ As I dive into the Computer Science world, I realize the tool's potentials in th
 </div>
 
 <table width="100%">
-<tr><td width="28%"><strong>Languages</strong></td><td>HTML | Java | C++ | Kotlin</td></tr>
+<tr><td width="50%"><strong>Languages</strong></td><td>HTML | Java | C++ | Kotlin | Python | SQL | JavaScript</td></tr>
 <tr><td><strong>GitHub</strong></td><td>12 repositories · 2 stars · 215 contributions</td></tr>
 </table>
 
