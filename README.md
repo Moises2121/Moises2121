@@ -29,9 +29,15 @@ As I dive into the Computer Science world, I realize the tool's potentials in th
 
 </div>
 
-<table width="100%">
-<tr><td width="100%"><strong>Languages</strong></td><td>HTML | Java | C++ | Kotlin | Python | SQL | JavaScript</td></tr>
-<tr><td><strong>GitHub</strong></td><td>12 repositories · 2 stars · 215 contributions</td></tr>
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="width:25%;"><strong>Languages</strong></td>
+    <td style="width:75%;">HTML | Java | C++ | Kotlin | Python | SQL | JavaScript</td>
+  </tr>
+  <tr>
+    <td style="width:25%;"><strong>GitHub</strong></td>
+    <td style="width:75%;">12 repositories · 2 stars · 215 contributions</td>
+  </tr>
 </table>
 
 ## Open-source Activity
