@@ -1,7 +1,7 @@
 <h1 align="center">Moises Sanchez</h1>
 <h3 align="center">Flex • Process Engineer / SNHU • Full-Stack Dev Student</h3>
 
-<p align="center"><a href="https://github.com/moises2121"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/moises2121?tab=repositories"><img src="https://img.shields.io/badge/1_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="PUBLIC REPOSITORIES" /></a> <a href="https://www.linkedin.com/in/moises-sanchez-9ab510361"><img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
+<p align="center"><a href="https://www.linkedin.com/in/moises-sanchez-9ab510361"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/moises2121?tab=repositories"><img src="https://img.shields.io/badge/1_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="PUBLIC REPOSITORIES" /></a> <a href="https://www.linkedin.com/in/moises-sanchez-9ab510361"><img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
 
 <p align="center">Reading, learning, drafting and building development applications</p>
 
