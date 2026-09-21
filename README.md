@@ -9,7 +9,7 @@
 
 ## My mission
 
-As I dive into the Computer Science world, I realize the tool's potentials in the process & manufacturing environments. As a current Process Engineer, one of my tasks involves facilitating the access to clean, sustainable data that is used to reduce production failures. At times, our customer's data does not adhere our standards - instead of manually cleaning this data, automating these tasks can bring a more productive engineering team. As I continue enhancing my knowledge, I will use my tools and skills to ensure we meet customer needs while adhering to our company's standards.
+As I dive into the Computer Science world, I realize the tool's potentials in the process & manufacturing environments. As a current Process Engineer, one of my tasks involves facilitating the access to clean, sustainable data that is used to reduce production failures. At times, our customer's data does not adhere our standards - instead of manually cleaning this data, automating these tasks can bring a more productive engineering team. As I continue enhancing my knowledge, I will use my tools and skills to ensure we meet customer needs while adhering to our company's standards and following industry's best practices.
 
 ## What I’m building
 
