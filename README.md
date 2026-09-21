@@ -1,6 +1,5 @@
-
-<h1>Moises Sanchez</h1>
-<h3>Process Engineer / Full-Stack Dev Student</h3>
+<p align="center"><h1>Moises Sanchez</h1></p>
+<p align="center"><h3>Process Engineer / Full-Stack Dev Student</h3></p>
 
 <p><a href="https://github.com/moises2121"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/moises2121?tab=repositories"><img src="https://img.shields.io/badge/1_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="1 PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
 
@@ -16,11 +15,11 @@ As I dive into the Computer Science world, I realize the tool's potentials in th
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top"><h3 🚧 <a href="https://github.com/Moises2121/moises2121.github.io">moises2121.github.io</a></h3><p><b>CS 499 Capstone</b></p><p><strong>Why it matters:</strong> This project showcases ths skills obtained throuought the Computer Science degree at SNHU </p><p></p></td>
+<td width="50%" valign="top"><h3 🚧 <a href="https://github.com/Moises2121/moises2121.github.io"><span style="color:green">ePortfolio in Pages</span></a></h3><p><b>CS499 Capstone - "Weight Tracker App"</b></p><p><strong>Why it matters:</strong> This project showcases the skills I obtained throughout the Computer Science degree program at <b>SNHU</b> </p><p></p></td>
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/moises2121?tab=repositories">Explore repositories →</a> · <a href="https://github.com/moises2121?tab=stars">See open-source signal →</a></p>
+<p align="center"><a href="https://github.com/moises2121?tab=repositories">Explore my repositories →</a></p>
 
 ## My Current Toolbox
 
@@ -49,6 +48,6 @@ As I dive into the Computer Science world, I realize the tool's potentials in th
 
 If you are interested in building a project with me, reach out and let's connect! I'm looking forward to expanding my portfolio.
 
-<p align="center"><a href="https://github.com/moises2121"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a> <a href="https://github.com/moises2121?tab=repositories"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW MY WORK" /></a> <a href="https://github.com/moises2121"><img src="https://img.shields.io/badge/BUILD_WITH_ME-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="BUILD WITH ME" /></a></p>
+<p align="center"><a href="https://github.com/moises2121"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a> <a href="https://github.com/moises2121?tab=repositories"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&amp;labelColor=0d1117" alt="REPOSITORY" /></a> <a href="https://www.linkedin.com/in/moises-sanchez-9ab510361"><img src="https://img.shields.io/badge/BUILD_WITH_ME-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="BUILD WITH ME" /></a></p>
 
 <div align="center"><sub>Knoweledge · Patience · Control</sub></div>
