@@ -1,35 +1,28 @@
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/portrait?username=moises2121&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153232492%3Fu%3D44e5267c31b7dc9b410eba7c09dd080e13b0ccfe%26v%3D4" width="620" alt="Moises Sanchez animated graduation portrait" />
 
 <h1>Moises Sanchez</h1>
-<h3>Frontend or full-stack engineer</h3>
+<h3>Process Engineer / Full-Stack Dev Student</h3>
 
 <p><a href="https://github.com/moises2121"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/moises2121?tab=repositories"><img src="https://img.shields.io/badge/1_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="1 PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
 
-<p>I build practical software, learn in public, and turn useful ideas into shipped work.</p>
+<p>Reading, learning, drafting and building development applications</p>
 
 </div>
 
 ## The mission
 
-AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.
-
-I build practical software, learn in public, and turn useful ideas into shipped work.
-
-I’m building a profile that makes the work easy to understand: what I care about, what I’m shipping, and where the proof lives.
+As I dive into the Computer Science world, I realize the tool's potentials in the process manufacturing environment
 
 ## What I’m building
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/Moises2121/moises2121.github.io">moises2121.github.io</a></h3><p>CS 499 Capstone</p><p><strong>Why it matters:</strong> a concrete proof point from moises2121's public work.</p><p><a href="https://github.com/Moises2121/moises2121.github.io">Explore project →</a></p></td>
+<td width="50%" valign="top"><h3 🚧 <a href="https://github.com/Moises2121/moises2121.github.io">moises2121.github.io</a></h3><p><b>CS 499 Capstone</b></p><p><strong>Why it matters:</strong> This project showcases ths skills obtained throuought the Computer Science degree at SNHU </p><p></p></td>
 </tr>
 </table>
 
 <p align="center"><a href="https://github.com/moises2121?tab=repositories">Explore repositories →</a> · <a href="https://github.com/moises2121?tab=stars">See open-source signal →</a></p>
 
-## Technology arsenal
+## My Current Toolbox
 
 <div align="center">
 
@@ -38,12 +31,11 @@ I’m building a profile that makes the work easy to understand: what I care abo
 </div>
 
 <table width="100%">
-<tr><td width="28%"><strong>Languages & tools</strong></td><td>HTML | Java | C++</td></tr>
-<tr><td><strong>Profile focus</strong></td><td>moises2121.github.io</td></tr>
+<tr><td width="28%"><strong>Languages</strong></td><td>HTML | Java | C++ | Kotlin</td></tr>
 <tr><td><strong>GitHub signal</strong></td><td>12 repositories · 2 stars · 215 contributions</td></tr>
 </table>
 
-## Open-source signal
+## Open-source Activity
 
 <div align="center">
 
@@ -55,8 +47,8 @@ I’m building a profile that makes the work easy to understand: what I care abo
 
 ## Let’s build useful software
 
-I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
+If you are interested in building a project with me, reach out and let's connect! I'm looking forward to expanding my portfolio.
 
 <p align="center"><a href="https://github.com/moises2121"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a> <a href="https://github.com/moises2121?tab=repositories"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW MY WORK" /></a> <a href="https://github.com/moises2121"><img src="https://img.shields.io/badge/BUILD_WITH_ME-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="BUILD WITH ME" /></a></p>
 
-<div align="center"><sub>Build boldly · test thoughtfully · ship safely</sub></div>
+<div align="center"><sub>Knoweledge · Patience · Control</sub></div>
