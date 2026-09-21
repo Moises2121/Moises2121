@@ -30,7 +30,7 @@ As I dive into the Computer Science world, I realize the tool's potentials in th
 </div>
 
 <table width="100%">
-<tr><td width="50%"><strong>Languages</strong></td><td>HTML | Java | C++ | Kotlin | Python | SQL | JavaScript</td></tr>
+<tr><td width="100%"><strong>Languages</strong></td><td>HTML | Java | C++ | Kotlin | Python | SQL | JavaScript</td></tr>
 <tr><td><strong>GitHub</strong></td><td>12 repositories · 2 stars · 215 contributions</td></tr>
 </table>
 
