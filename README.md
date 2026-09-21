@@ -15,7 +15,7 @@ As I dive into the Computer Science world, I realize the tool's potentials in th
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top"><h3 🚧 <a href="https://github.com/Moises2121/moises2121.github.io">ePortfolio in Pages</a></h3><p><b>CS499 Capstone - "Weight Tracker App"</b></p><p><strong>Why it matters:</strong> This project showcases the skills I obtained throughout the Computer Science degree program at <b>SNHU</b> </p><p></p></td>
+<td width="50%" valign="top"><h3 🚧 <a href="https://github.com/Moises2121/moises2121.github.io">ePortfolio in Pages</a></h3><p><b><a href="https://moises2121.github.io/">CS499 Capstone - "Weight Tracker App"</b></a></p><p><strong>Why it matters:</strong> This project showcases the skills I obtained throughout the Computer Science degree program at <b>SNHU</b> </p><p></p></td>
 </tr>
 </table>
 
