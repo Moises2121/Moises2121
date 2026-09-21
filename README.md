@@ -3,23 +3,23 @@
 
 <p align="center"><a href="https://github.com/moises2121"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/moises2121?tab=repositories"><img src="https://img.shields.io/badge/1_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="PUBLIC REPOSITORIES" /></a> <a href="https://www.linkedin.com/in/moises-sanchez-9ab510361"><img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
 
-<p>Reading, learning, drafting and building development applications</p>
+<p align="center">Reading, learning, drafting and building development applications</p>
 
 </div>
 
-## The mission
+## My mission
 
-As I dive into the Computer Science world, I realize the tool's potentials in the process manufacturing environment
+As I dive into the Computer Science world, I realize the tool's potentials in the process & manufacturing environments. As a current Process Engineer, one of my tasks involves facilitating the access to clean, sustainable data that is used to reduce production failures. At times, our customer's data does not adhere our standards - instead of manually cleaning this data, automating these tasks can bring a more productive engineering team. As I continue enhancing my knowledge, I will use my tools and skills to ensure we meet customer needs while adhering to our company's standards.
 
 ## What I’m building
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top"><h3 🚧 <a href="https://github.com/Moises2121/moises2121.github.io"><span style="color:green">ePortfolio in Pages</span></a></h3><p><b>CS499 Capstone - "Weight Tracker App"</b></p><p><strong>Why it matters:</strong> This project showcases the skills I obtained throughout the Computer Science degree program at <b>SNHU</b> </p><p></p></td>
+<td width="50%" valign="top"><h3 🚧 <a href="https://github.com/Moises2121/moises2121.github.io">ePortfolio in Pages</a></h3><p><b>CS499 Capstone - "Weight Tracker App"</b></p><p><strong>Why it matters:</strong> This project showcases the skills I obtained throughout the Computer Science degree program at <b>SNHU</b> </p><p></p></td>
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/moises2121?tab=repositories">Explore my repositories →</a></p>
+<p align="center"><a href="https://github.com/moises2121?tab=repositories">Explore my repository</a></p>
 
 ## My Current Toolbox
 
@@ -31,7 +31,7 @@ As I dive into the Computer Science world, I realize the tool's potentials in th
 
 <table width="100%">
 <tr><td width="28%"><strong>Languages</strong></td><td>HTML | Java | C++ | Kotlin</td></tr>
-<tr><td><strong>GitHub signal</strong></td><td>12 repositories · 2 stars · 215 contributions</td></tr>
+<tr><td><strong>GitHub</strong></td><td>12 repositories · 2 stars · 215 contributions</td></tr>
 </table>
 
 ## Open-source Activity
@@ -44,7 +44,7 @@ As I dive into the Computer Science world, I realize the tool's potentials in th
 
 </div>
 
-## Let’s build useful software
+## Let’s build useful software !
 
 If you are interested in building a project with me, reach out and let's connect! I'm looking forward to expanding my portfolio.
 
